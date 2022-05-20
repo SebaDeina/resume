@@ -2,7 +2,7 @@
   "name": "bolby",
   "version": "1.0.2",
   "private": true,
-  "homepage": "https://SebaDeina.gitgithub.io/resume",
+  "homepage": "https://SebaDeina.gitgithub.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
