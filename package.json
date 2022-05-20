@@ -1,8 +1,8 @@
 {
-  "name": "bolby",
+  "name": "resume",
   "version": "1.0.2",
   "private": true,
-  "homepage": "https://SebaDeina.github.io/resume",
+  "homepage": "https://sebadeina.github.io/resume",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
