@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.69c2c12c.chunk.css",
-    "main.js": "/resume/static/js/main.886496dd.chunk.js",
-    "main.js.map": "/resume/static/js/main.886496dd.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.3536fb58.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.3536fb58.js.map",
+    "main.js": "/resume/static/js/main.e355012a.chunk.js",
+    "main.js.map": "/resume/static/js/main.e355012a.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.477e7bb7.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.477e7bb7.js.map",
     "static/css/2.a6b67245.chunk.css": "/resume/static/css/2.a6b67245.chunk.css",
-    "static/js/2.e896ebba.chunk.js": "/resume/static/js/2.e896ebba.chunk.js",
-    "static/js/2.e896ebba.chunk.js.map": "/resume/static/js/2.e896ebba.chunk.js.map",
-    "static/js/3.24bde703.chunk.js": "/resume/static/js/3.24bde703.chunk.js",
-    "static/js/3.24bde703.chunk.js.map": "/resume/static/js/3.24bde703.chunk.js.map",
-    "static/js/4.6a0dd5ae.chunk.js": "/resume/static/js/4.6a0dd5ae.chunk.js",
-    "static/js/4.6a0dd5ae.chunk.js.map": "/resume/static/js/4.6a0dd5ae.chunk.js.map",
-    "static/js/5.53b6812b.chunk.js": "/resume/static/js/5.53b6812b.chunk.js",
-    "static/js/5.53b6812b.chunk.js.map": "/resume/static/js/5.53b6812b.chunk.js.map",
+    "static/js/2.983bd1f8.chunk.js": "/resume/static/js/2.983bd1f8.chunk.js",
+    "static/js/2.983bd1f8.chunk.js.map": "/resume/static/js/2.983bd1f8.chunk.js.map",
+    "static/js/3.e2128e89.chunk.js": "/resume/static/js/3.e2128e89.chunk.js",
+    "static/js/3.e2128e89.chunk.js.map": "/resume/static/js/3.e2128e89.chunk.js.map",
+    "static/js/4.d665a21d.chunk.js": "/resume/static/js/4.d665a21d.chunk.js",
+    "static/js/4.d665a21d.chunk.js.map": "/resume/static/js/4.d665a21d.chunk.js.map",
+    "static/js/5.a53a2210.chunk.js": "/resume/static/js/5.a53a2210.chunk.js",
+    "static/js/5.a53a2210.chunk.js.map": "/resume/static/js/5.a53a2210.chunk.js.map",
     "index.html": "/resume/index.html",
     "static/css/2.a6b67245.chunk.css.map": "/resume/static/css/2.a6b67245.chunk.css.map",
     "static/css/main.69c2c12c.chunk.css.map": "/resume/static/css/main.69c2c12c.chunk.css.map",
-    "static/js/2.e896ebba.chunk.js.LICENSE.txt": "/resume/static/js/2.e896ebba.chunk.js.LICENSE.txt",
+    "static/js/2.983bd1f8.chunk.js.LICENSE.txt": "/resume/static/js/2.983bd1f8.chunk.js.LICENSE.txt",
     "static/media/best-app-development-tool.md": "/resume/static/media/best-app-development-tool.ad3bbdcb.md",
     "static/media/common-misconceptions-about-payment.md": "/resume/static/media/common-misconceptions-about-payment.e5b2c5dc.md",
     "static/media/App.scss": "/resume/static/media/map.0d7639e8.svg",
@@ -25,10 +25,10 @@
     "static/media/things-to-know-about-startup-business.md": "/resume/static/media/things-to-know-about-startup-business.3df71b0b.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.3536fb58.js",
+    "static/js/runtime-main.477e7bb7.js",
     "static/css/2.a6b67245.chunk.css",
-    "static/js/2.e896ebba.chunk.js",
+    "static/js/2.983bd1f8.chunk.js",
     "static/css/main.69c2c12c.chunk.css",
-    "static/js/main.886496dd.chunk.js"
+    "static/js/main.e355012a.chunk.js"
   ]
 }

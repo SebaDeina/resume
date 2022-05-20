@@ -1,2 +1,0 @@
-(this.webpackJsonpresume=this.webpackJsonpresume||[]).push([[3],{97:function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/best-app-development-tool.ad3bbdcb.md"}}]);
-//# sourceMappingURL=3.24bde703.chunk.js.map

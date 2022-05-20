@@ -1,2 +1,0 @@
-(this.webpackJsonpresume=this.webpackJsonpresume||[]).push([[5],{99:function(s,t,e){"use strict";e.r(t),t.default=e.p+"static/media/things-to-know-about-startup-business.3df71b0b.md"}}]);
-//# sourceMappingURL=5.53b6812b.chunk.js.map
