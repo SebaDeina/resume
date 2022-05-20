@@ -84,7 +84,7 @@ function Herosection(props) {
             duration={500}
             className="mouse-wrapper"
           >
-            <span>sigue bajando :)</span>
+            <span>scroll down :)</span>
             <span className="mouse">
               <span className="wheel"></span>
             </span>
